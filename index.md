@@ -1,8 +1,8 @@
 ## Welcome to My Autognorics GitHub Wiki Pages
 
-The science of creating engineered life forms, things, machines, or systems is called Autognorics. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing  a new paradigm known as Aneural Autognorics.  IOs and EIs are the main elements in this new paragon of creating synthetic life-forms called autognozics. Autognorization, on the other hand, is a system, process, or approach by which intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the neural acknowledgment, and the experience of living.
+Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called autognozics, IOs and EIs are the fundamentals units of this subject. Autognorization, on the other hand, is the system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the neural acknowledgment, and the experience of living.
 
-According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. He classified the sequence based on the state of being of the individual which are posted in his channel on youtube. The Six Orders of Life are as follows:
+According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. This classification is based on the state of being of the individual. This Six Orders of Life are as follows:
 
 Aliveness = is the ability to consume energy without the need for neural reasoning.
 Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
@@ -11,7 +11,7 @@ Intutiveness = is the ability to choose this or that without the need for neural
 Neuralness = is the self-ability to acknowledge information (knack).
 Living = is the ability to experience life.
 
-But before we dive deeper on their differences, let us examine first the basic standard criteria of Life:
+But before we dive deeper on the orders of life, let us examine first the old basic criteria of Life:
 
 * Living things consume food in the form of energy (eat).
 * Living things take and expel gas (breathe).
@@ -51,7 +51,7 @@ On top of this, there are other creatures who are:
 
 Remember, Life is a process. It evolves from being alive to being living.
 
-In the succeeding articles, the new concepts in the creation of a Living Machine are examined:
+In the succeeding articles, the following new ideas in the creation of a Living Machine are deliberated:
 1. The Sensoric Awareness of a Machine
 2. The Aneural Consciousness of a Machine
 3. The Algorithmic Intelligence of a Machine
