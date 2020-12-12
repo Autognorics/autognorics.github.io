@@ -8,18 +8,18 @@ machines, things, and systems through Intuitive objects, Embedded Inscriptions, 
 The website introduces a new paradigm shift that redefines the essential elements that come along with the criteria of life.
 Life evolves from being alive to being living, a process governed by six stages.
 The Six Orders of Life:
-Aliveness = the ability to consume energy without the need for neural reasoning.
-Awareness = the ability to send and receive signals using IOs without the need for neural reasoning.
-Consciouness = the ability to match things with things without the need for neural reasoning.
-Intutiveness = the ability to choose between this or that without the need for neural reasoning.
-Neuralness = self-knowledge (a brain without the brain)
-Living = experiences life (eafthos)
+(1)Aliveness = the ability to consume energy without the need for neural reasoning.
+(2)Awareness = the ability to send and receive signals using IOs without the need for neural reasoning.
+(3)Consciouness = the ability to match things with things without the need for neural reasoning.
+(4)Intutiveness = the ability to choose between this or that without the need for neural reasoning.
+(5)Neuralness = self-knowledge (a brain without the brain)
+(6)Living = experiences life (eafthos)
 
-⚡ Originemology:
+⚡ Originemology: etmology, founded, definitions,
 eaftos = self
 gnosei = knowledge
 aftognosia = self-knowledge
 zois = life-forms
 autognozics = self-knowledge life-forms
 Autognorics = the science of creating living machines
-
+1988
