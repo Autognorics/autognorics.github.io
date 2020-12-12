@@ -15,7 +15,8 @@ The Six Orders of Life:
 (5)Neuralness = self-knowledge (a brain without the brain)
 (6)Living = experiences life (eafthos)
 
-⚡ Originemology: etmology, founded, definitions,
+⚡ Originemology: 
+The etymology, originator, founded, history, semantics, onomatology, eponym, -
 eaftos = self
 gnosei = knowledge
 aftognosia = self-knowledge
