@@ -5,7 +5,7 @@ WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
 machines, things, and systems through Intuitive objects, Embedded Inscriptions, Reverse Inverse Theory, and Inscription by Design.
 
 ⚡ The Revisionist Ideas:
-The website introduces a new paradigm shift that redefines the essential elements that come along with the criteria of life.
+This a new paradigm shift that redefines the essential elements that come along with the criteria of life.
 Life evolves from being alive to being living, a process governed by six stages.
 The Six Orders of Life:
 (1)Aliveness = the ability to consume energy without the need for neural reasoning.
@@ -16,11 +16,12 @@ The Six Orders of Life:
 (6)Living = experiences life (eafthos)
 
 ⚡ Originemology: 
-The etymology, originator, founded, history, semantics, onomatology, eponym, -
-eaftos = self
-gnosei = knowledge
-aftognosia = self-knowledge
-zois = life-forms
-autognozics = self-knowledge life-forms
-Autognorics = the science of creating living machines
-1988
+The etymology, originator, founded, history, semantics, onomatology, eponym:
+*eaftos = self
+*gnosei = knowledge
+*aftognosia = self-knowledge
+*zois = life-forms
+*autognozics = self-knowledge life-forms
+*Autognorics = the science of creating living machines
+*1988
+*L.A.W.S.I.N.
