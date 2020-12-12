@@ -1,6 +1,6 @@
 # autognorics.github.io
-WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
-🌱 This is neither about Artificial Intelligence nor Machine Learning ...
+~WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
+~🌱 This is neither about Artificial Intelligence nor Machine Learning ...
 ⚡ This is all about a new higher school of thought that deals with creating engineered life forms,
 machines, things, and systems through Intuitive objects, Embedded Inscriptions,
 Reverse Inverse Theory, and Inscription by Design.
