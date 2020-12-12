@@ -52,4 +52,5 @@ In the succeeding articles, the new concepts in the creation of a Living Machine
 8. The Making of a Living Machine
 
 
-                "Life is a process. It evolves from being alive to being living." ~ Joey Lawsin
+"Life is a process. It evolves from being alive to being living." 
+                                                   ~ Joey Lawsin
