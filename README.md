@@ -23,5 +23,5 @@ The etymology, originator, founded, history, semantics, onomatology, eponym:
 *zois = life-forms
 *autognozics = self-knowledge life-forms
 *Autognorics = the science of creating living machines
-*1988
-*L.A.W.S.I.N.
+*(Lawsin,1988)
+
