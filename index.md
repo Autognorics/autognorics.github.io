@@ -1,7 +1,17 @@
 ## Welcome to My Autognorics GitHub Wiki Pages
 
-Many of us think that being Alive, with Life, and Living are all one and the same. But according to Lawsin, the author of the Biotronics Project and developer of Autognorics, they are all different and must be defined separately with distinct meanings. 
-For a starter, let us examine the basic criteria of Life:
+The science of creating engineered life forms, things, machines, or systems is called Autognorics. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing  a new paradigm known as Aneural Autognorics.  IOs and EIs are the main elements in this new paragon of creating synthetic life-forms called autognozics. Autognorization, on the other hand, is a system, process, or approach by which intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the neural acknowledgment, and the experience of living.
+
+According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. He classified the sequence based on the state of being of the individual which are posted in his channel on youtube. The Six Orders of Life are as follows:
+
+Aliveness = is the ability to consume energy without the need for neural reasoning.
+Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
+Consciousness = is the ability to match things with things without the need for neural reasoning.
+Intutiveness = is the ability to choose this or that without the need for neural reasoning.
+Neuralness = is the self-ability to acknowledge information (knack).
+Living = is the ability to experience life.
+
+But before we dive deeper on their differences, let us examine first the basic standard criteria of Life:
 
 * Living things consume food in the form of energy (eat).
 * Living things take and expel gas (breathe).
@@ -45,9 +55,9 @@ In the succeeding articles, the new concepts in the creation of a Living Machine
 1. The Sensoric Awareness of a Machine
 2. The Aneural Consciousness of a Machine
 3. The Algorithmic Intelligence of a Machine
-4. The Information Realization of a Machine
+4. The Neural Acknowledgment of a Machine
 5. Intuitive Object and Embedded Inscription
-6. A Brain without the Brain
+6. A Brain without the Brain (Aneural System)
 7. The Four Pillars of a Living Machine
 8. The Making of a Living Machine
 
