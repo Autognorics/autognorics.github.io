@@ -1,4 +1,4 @@
-## Welcome to My Autognorics GitHub wiki Pages
+## Welcome to My Autognorics GitHub Wiki Pages
 
 Many of us think that being Alive, with Life, and Living are all one and the same. But according to Lawsin, the author of the Biotronics Project and developer of Autognorics, they are all different and must be defined separately with distinct meanings. 
 For a starter, let us examine the basic criteria of Life:
