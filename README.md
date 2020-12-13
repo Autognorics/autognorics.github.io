@@ -22,6 +22,7 @@ The etymology, originator, founded, history, semantics, onomatology, eponym:
 *aftognosia = self-knowledge
 *zois = life-forms
 *autognozics = self-knowledge life-forms
+*ELFS = engineered life-forms systems
 *Autognorics = the science of creating living machines
 *(Lawsin,1988)
 
