@@ -1,8 +1,7 @@
 # autognorics.github.io
 WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
 
-⚡ This site is neither about Artificial Intelligence nor Machine Learning. This is all about a new higher school of thought that deals with creating engineered life forms,
-machines, things, and systems through Intuitive objects, Embedded Inscriptions, Reverse Inverse Theory, and Inscription by Design.
+⚡ This site is neither about Artificial Intelligence nor Machine Learning but about ELFS. This is all about a new higher school of thought that deals with creating engineered life forms, machines, things, and systems through Intuitive objects, Embedded Inscriptions, Reverse Inverse Theory, and Inscription by Design.
 
 ⚡ The Revisionist Ideas:
 This a new paradigm shift that redefines the essential elements that come along with the criteria of life.
