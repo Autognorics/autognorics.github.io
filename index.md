@@ -4,7 +4,7 @@ Autognorics is the science of creating engineered life forms, things, machines, 
 
 ELFS or Engineered Life-forms Systems, technically named Autognorization, is the system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the neural acknowledgment, and the experience of living.
 
-According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. This classification is based on the states of being of the individual. This Six Orders of Life are as follows:
+According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six Orders of Life are as follows:
 
 Aliveness = is the ability to consume energy without the need for neural reasoning.
 Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
