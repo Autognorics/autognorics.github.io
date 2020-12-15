@@ -54,7 +54,7 @@ On top of this, there are other creatures who are:
 Remember, Life is a process. It evolves from being alive to being living.
 
 In the succeeding articles, the following new ideas in the creation of a Living Machine are deliberated:
-1. The Sensoric Awareness of a Machine
+1. [The Sensoric Awareness of a Machine](https://autognorics.github.io/Sensoric_Awareness/)
 2. The Aneural Consciousness of a Machine
 3. The Algorithmic Intelligence of a Machine
 4. The Neural Acknowledgment of a Machine
