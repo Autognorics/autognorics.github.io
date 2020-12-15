@@ -57,7 +57,7 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 1. [The Sensoric Awareness of a Machine](https://autognorics.github.io/Sensoric_Awareness/)
 2. [The Aneural Consciousness of a Machine](https://autognorics.github.io/Aneural_Consciousness/)
 3. [The Algorithmic Intelligence of a Machine](https://autognorics.github.io/Algorithmic_Intuitiveness/)
-4. [The Neural Acknowledgment of a Machine] 
+4. [The Neural Consciousness of a Machine](https://autognorics.github.io/) 
 5. [Intuitive Object and Embedded Inscription](https://autognorics.github.io/Intuitive_Objects/)
 6. [A Brain without the Brain (Aneural System)](https://autognorics.github.io/A-Brain-Without-The-Brain-Paradigm/)
 7. The Four Pillars of a Living Machine
