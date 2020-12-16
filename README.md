@@ -26,3 +26,5 @@ The etymology, originator, founded, history, semantics, onomatology, eponym:
 *(Lawsin,1988)
 
 ![autognorics](gnorics.jpg)
+
+> "The Building Blocks of Life are made up of Invisible Shapes and Empty Spaces." ~ Joey Lawsin
