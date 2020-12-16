@@ -1,6 +1,6 @@
 ## Welcome to My Autognorics GitHub Wiki Pages
 
-Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics, IOs and EIs are the fundamentals units of this subject. 
+Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics, IOs and EIs are the fundamentals units. 
 
 ELFS or Engineered Life-forms Systems, technically named Autognorization, is the system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the neural acknowledgment, and the experience of living.
 
