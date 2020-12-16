@@ -59,7 +59,7 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 3. [The Algorithmic Intelligence of a Machine](https://autognorics.github.io/Algorithmic_Intuitiveness/)
 4. [The Neural Knowledge of a Machine](https://autognorics.github.io/) 
 5. [Intuitive Object and Embedded Inscription](https://autognorics.github.io/Intuitive_Objects/)
-6. [A Brain without the Brain](https://autognorics.github.io/Aneural-Network-System/)
+6. [A Brain without the Brain Paradigm](https://autognorics.github.io/Aneural-Network-System/)
 7. [The Four Pillars of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
 8. Autognorics:The Science of Engineered Life Forms (SELFS)
 
