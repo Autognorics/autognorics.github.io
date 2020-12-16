@@ -64,5 +64,5 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 8. Autognorics:The Science of Engineered Life Forms (SELFS)
 
 
-"Life is a process. It evolves from being alive to being living." 
+> "Life is a process. It evolves from being alive to being living." 
                                                    ~ Joey Lawsin
