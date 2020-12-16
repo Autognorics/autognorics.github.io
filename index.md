@@ -6,12 +6,12 @@ ELFS or Engineered Life-forms Systems, technically named Autognorization, is the
 
 According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six Orders of Life are as follows:
 
-Aliveness = is the ability to consume energy without the need for neural reasoning.
-Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
-Consciousness = is the ability to match things with things without the need for neural reasoning.
-Intutiveness = is the ability to choose this or that without the need for neural reasoning.
-Neuralness = is the self-ability to acknowledge information (knack).
-Living = is the ability to experience life.
+1. Aliveness = is the ability to consume energy without the need for neural reasoning.
+2. Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
+3. Consciousness = is the ability to match things with things without the need for neural reasoning.
+4. Intutiveness = is the ability to choose this or that without the need for neural reasoning.
+5. Neuralness = is the ability to selfness or self-knowledge.
+6. Living = is the ability to experience life.
 
 But before we dive deeper on the orders of life, let us examine first the old basic criteria of Life:
 
@@ -56,9 +56,9 @@ Remember, Life is a process. It evolves from being alive to being living.
 In the succeeding articles, the following new ideas in the creation of a Living Machine are deliberated:
 1. [The Sensoric Awareness of a Machine](https://autognorics.github.io/Sensoric_Awareness/)
 2. [The Aneural Consciousness of a Machine](https://autognorics.github.io/Aneural_Consciousness/)
-3. [The Algorithmic Intelligence of a Machine](https://autognorics.github.io/Algorithmic_Intuitiveness/)
-4. [The Neural Knowledge of a Machine](https://autognorics.github.io/) 
-5. [Intuitive Object and Embedded Inscription](https://autognorics.github.io/Intuitive_Objects/)
+3. [The Algorithmic Intuitiveness of a Machine](https://autognorics.github.io/Algorithmic_Intuitiveness/)
+4. [The Neural Selfness of a Machine](https://autognorics.github.io/) 
+5. [Intuitive Objects and Embedded Inscriptions](https://autognorics.github.io/Intuitive_Objects/)
 6. [A Brain without the Brain Paradigm](https://autognorics.github.io/Aneural-Network-System/)
 7. [The Four Pillars of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
 8. Autognorics:The Science of Engineered Life Forms (SELFS)
