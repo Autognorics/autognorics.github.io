@@ -25,4 +25,4 @@ The etymology, originator, founded, history, semantics, onomatology, eponym:
 *Autognorics = the science of creating living machines
 *(Lawsin,1988)
 
-![alt text here](bulb.jpg)
+![autognorics](gnorics.jpg)
