@@ -6,8 +6,8 @@ ELFS or Engineered Life-forms Systems, technically named Autognorization, is the
 
 According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six Orders of Life are as follows:
  
-1. Aliveness = is the ability to consume energy without the need for neural reasoning.
-2. Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
+- 1. Aliveness = is the ability to consume energy without the need for neural reasoning.
+- 2. Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
 3. Consciousness = is the ability to match things with things without the need for neural reasoning.
 4. Intutiveness = is the ability to choose this or that without the need for neural reasoning.
 5. Neuralness = is the ability to selfness or self-knowledge.
