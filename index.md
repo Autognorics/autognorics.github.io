@@ -61,7 +61,7 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 5. [Intuitive Objects and Embedded Inscriptions](https://autognorics.github.io/Intuitive_Objects/)
 6. [A Brain without the Brain Paradigm](https://autognorics.github.io/Aneural-Network-System/)
 7. [The Four Pillars of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
-8. Autognorics:The Science of Engineered Life Forms (SELFS)
+8. [Autognorics:The Science of Engineered Life Forms](https://autognorics.github.io/Gnomi/)
 
 
 > "Life is a process. It evolves from being alive to being living." 
