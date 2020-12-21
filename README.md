@@ -1,5 +1,5 @@
 # autognorics.github.io
-Autognorics Github Website
+
 ## Welcome to My Autognorics GitHub Wiki Pages
  
 Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics or ELFS, IOs and EIs are the fundamentals units. 
@@ -62,7 +62,7 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 4. [The Neural Conception of a Machine](https://autognorics.github.io/Neural-Selfness/) 
 5. [Intuitive Objects and Embedded Inscriptions](https://autognorics.github.io/Intuitive_Objects/)
 6. [A Brain without the Brain Paradigm](https://autognorics.github.io/Aneural-Intuitive-Systems/)
-7. [The Four Marks of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
+7. [The Making of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
 8. [Autognorics:The Science of Creating Living Machines](https://autognorics.github.io/)
 
 
