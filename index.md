@@ -3,7 +3,7 @@ WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
 
 Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics, IOs and EIs are the fundamentals units. 
 
-ELFS or Engineered Life-forms Systems, technically named Autognorization, is the system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the neural acknowledgment, and the experience of living.
+ELFS or Engineered Life-forms Systems, technically named Autognorization, is the system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the emergence of selfness, and the experience of living.
 
 According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six Orders of Life are as follows:
 
@@ -11,8 +11,8 @@ According to Lawsin, Life evolves from being alive to being living. It is a proc
 2. Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
 3. Consciousness = is the ability to match things with things without the need for neural reasoning.
 4. Intutiveness = is the ability to choose this or that without the need for neural reasoning.
-5. Neuralness = is the ability to selfness or self-knowledge.
-6. Living = is the ability to experience life.
+5. Selfness = is the ability to inlearn or self-knowledge.
+6. Lifeness = is the ability to experience life.
 
 But before we dive deeper on the orders of life, let us examine first the old basic criteria of Life:
 
@@ -62,7 +62,7 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 5. [Intuitive Objects and Embedded Inscriptions](https://autognorics.github.io/Intuitive_Objects/)
 6. [A Brain without the Brain Paradigm](https://autognorics.github.io/Aneural-Intuitive-Systems/)
 7. [The Making of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
-8. [Autognorics:The Science of Engineered Life Forms](https://autognorics.github.io/)
+8. [Autognorics:The Science of Engineered Life Forms](https://autognorics.github.io/Autognorics)
 
 ⚡ Originemology: 
 The etymology, originator, founded, history, semantics, onomatology, eponym:
