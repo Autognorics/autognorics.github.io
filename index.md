@@ -1,11 +1,11 @@
 # autognorics.github.io
 WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
 
-Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics, IOs and EIs are the fundamentals units. 
+Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics or ELFS, IOs and EIs are the fundamentals units. ELFS or engineered lif forms are classified as gnorics, homognorics, biognorics, and zoikrons.
 
-ELFS or Engineered Life-forms Systems, technically named Autognorization, is the system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the emergence of selfness, and the experience of living.
+SELFS or Systems of Engineered Life-forms, technically called Autognorization, is a system, process, or approach where intuitive objects, embedded inscriptions, and inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the emergence of selfness, and the experience of living.
 
-According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six Orders of Life are as follows:
+According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six Signatures of Life are as follows:
 
 1. Aliveness = is the ability to consume energy without the need for neural reasoning.
 2. Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
