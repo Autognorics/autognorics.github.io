@@ -60,7 +60,7 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 3. [The Algorithmic Intuitiveness of a Machine](https://autognorics.github.io/Algorithmic_Intuitiveness/)
 4. [The Neural Selfness of a Machine](https://autognorics.github.io/Neural_Selfness/) 
 5. [Intuitive Objects and Embedded Inscriptions](https://autognorics.github.io/Intuitive_Objects/)
-6. [A Brain without the Brain Paradigm](https://autognorics.github.io/Aneural-Network-Systems/)
+6. [A Brain without the Brain Paradigm](https://autognorics.github.io/Aneural-Intuitive-Systems/)
 7. [The Four Marks of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
 8. [Autognorics:The Science of Engineered Life Forms](https://autognorics.github.io/)
 
