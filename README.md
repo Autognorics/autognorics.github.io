@@ -2,7 +2,7 @@
  
 Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as the Theory of M.I.N.D. or the Autognorics Aneural System. In this new paragon of creating synthetic life-forms, called Gnorics or ELFS, IOs and EIs are the fundamentals units. 
  
-SELFS or the Systems of Engineered Life-forms, technically named Autognorization, is a structured system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the selfness of knowledge, and the experience of lifeness.
+SELFS or the Systems of Engineered Life-forms, technically named Autognorization, is a structured system, process, or approach where intuitive objects, embedded inscriptions, and generated emergence are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the inlearness of information, and the experience of lifeness.
 
 According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six evolutionary Orders of Life are as follows:
  
