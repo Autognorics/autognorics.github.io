@@ -4,13 +4,13 @@ Autognorics is the science of creating engineered life forms, things, machines, 
  
 SELFS or the Systems of Engineered Life-forms, technically named Autognorization, is a structured system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the selfness of knowledge, and the experience of lifeness.
 
-According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six Orders of Life are as follows:
+According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six evolutionary Orders of Life are as follows:
  
 1. Aliveness = is the ability to consume energy without the need for neural reasoning.
 2. Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
 3. Consciousness = is the ability to match things with things without the need for neural reasoning.
 4. Intutiveness = is the ability to choose this or that without the need for neural reasoning.
-5. Selfness = is the ability to inlearn or self-knowledge.
+5. Inlearness = is the ability to acquire and use information.
 6. Lifeness = is the ability to experience life or to live.
  
 But before we dive deeper on the orders of life, let us examine first the old basic criteria of Life:
@@ -55,9 +55,9 @@ Remember, Life is a process. It evolves from being alive to being living.
 
 In the succeeding articles, the following new ideas in the creation of a Living Machine are deliberated:
 1. [The Sensoric Awareness of a Machine](https://autognorics.github.io/Sensoric_Awareness/)
-2. [The Aneural Consciousness of a Machine](https://autognorics.github.io/Aneural_Consciousness/)
+2. [The Associative Consciousness of a Machine](https://autognorics.github.io/Aneural_Consciousness/)
 3. [The Algorithmic Intuitiveness of a Machine](https://autognorics.github.io/Algorithmic_Intuitiveness/)
-4. [The Neural Selfness of a Machine](https://autognorics.github.io/Neural-Selfness/) 
+4. [The Aneural Inlearness of a Machine](https://autognorics.github.io/Neural-Selfness/) 
 5. [Intuitive Objects and Embedded Inscriptions](https://autognorics.github.io/Intuitive_Objects/)
 6. [A Brain without the Brain Paradigm](https://autognorics.github.io/Aneural-Intuitive-Systems/)
 7. [The Making of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
