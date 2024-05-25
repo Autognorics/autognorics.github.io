@@ -1,19 +1,22 @@
 ## Welcome to My Autognorics GitHub Wiki Pages
  
-Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as the Theory of M.I.N.D. or the Autognorics Aneural System. In this new paragon of creating synthetic life-forms, called Gnorics or ELFS, IOs and EIs are the fundamentals units. 
- 
-SELFS or the Systems of Engineered Life-forms, technically named Autognorization, is a structured system, process, or approach where intuitive objects, embedded inscriptions, and generated emergence are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the inlearness of information, and the experience of lifeness.
+At the crossroads of artificial intelligence, machine learning, and robotics lies a captivating novel discipline known as Autognorics. This field focuses on the study of in-vivo machines that exhibit life-like qualities. It deals with embedded inscriptions, intuitive objects, aneural brein memory systems, and generated interim emergence.
 
-According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six evolutionary Orders of Life are as follows:
- 
-1. Aliveness = is the ability to consume energy without the need for neural reasoning.
-2. Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
-3. Consciousness = is the ability to match things with things without the need for neural reasoning.
-4. Intutiveness = is the ability to choose this or that without the need for neural reasoning.
-5. Inlearness = is the ability to acquire and use information.
-6. Lifeness = is the ability to experience life or to live.
- 
-But before we dive deeper on the orders of life, let us examine first the old basic criteria of Life:
+Autognorics emerged from the scientific research conducted by Engr Joey Lawsin in 1988 — the Biotronics Project. The project aimed to create intuitive machines that possess life. These Intuitive Machines (IM) are objects that behave and look like humans, animals, plants, or cells. They can walk, see, talk, think, hear, taste, feel, fly, swim, and yes, they can also die. 
+
+The word Autognorics is derived from the Greek words: Auto which means self and Gnorics which means knowledge. Literally, it means " a self-knowledge living machine". 
+
+ELFS refers to Engineered Life Forms. They are living machines endowed with the seven signatures of life. These ELFS are classified as neural (with brains) or aneural (brainless). They are also classified as Bioforms (alive, living, and with life) or Abioforms (alive, living, but without life). The new seven criteria of life presents a seven-part formula known as the Laws of Seven Inscriptions which include:
+
+1. Mechanization of Aliveness (Alive): This involves enabling a material object to perform basic functions like movement or animation through self-energization. At this stage, the object is considered alive but lacks awareness or consciousness.
+2. Sensation of Awareness (Sensors): This step involves adding sensory inputs to the object, such as vision, hearing, touch, taste, or smell. This enables the object to perceive its environment and react to stimuli. The object is now aware but not yet conscious.
+3. Logic of Intuitiveness (Logic): This involves adding rational abilities to the object, such as logic, inference, or deduction through its sensors. This enables the object’s sensors to respond or make decisions based on its information inputs and outputs. The object is now intuitive but not inlearn, neural, or symbiotic.
+4. Codification of Consciousness (Codex): This involves associating an object (reality) with information (ideas), such as following, copying, discovering, or mimicking what it senses. This enables the object to interact with its surroundings. The object is now conscious but not informed or inlearned.
+5. Inlearness of Information (Inlearn): This involves adding learning capabilities to the object through acquiring information in a queue. The various distinct structural designs of its gnos store individual information uniquely through the flowchart effect via information inputs and outputs that create experiences, behaviors, and feedbacks. The object is now inlearn or inform but not symbiotic or self-emergent.
+6. Symbiosis of Living (Living): This involves adding social interactions to the object, such as cooperation or competition. This enables the object to form relationships and networks with other objects and benefit from their resources and support. The object is now symbiotic but without self-realization, self-identity, or self-recognition yet.
+7. Emergence of Self (Life): This involves adding self-referentiality to the object, such as self-identity, self-expression, or self-reflection. This enables the object to recognize itself as a distinct entity and create its own meaning and values in life. The object can now recognize itself, thoughts, feelings, actions, and experiences. 
+
+Before we dive deeper on these seven evolutionary orders of life, let us examine first the old basic criteria of Life known to science:
  
 * Living things consume food in the form of energy (eat).
 * Living things take and expel gas (breathe).
