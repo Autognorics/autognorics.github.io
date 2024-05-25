@@ -1,20 +1,21 @@
 # autognorics.github.io
 WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
 
-Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics or ELFS, IOs and EIs are the fundamentals units. ELFS or engineered lif forms are classified as gnorics, homognorics, biognorics, and zoikrons.
+Autognorics is the science of creating engineered life forms, machines, or systems that are alive, living, and with life. In short, it is the study of creating a living Intuitive Machine (IM) that can see, smell, taste, hear, speak, feel, think, breed, fly, swim, and die too. It was conceptualized by Engr Joey Lawsin in 1988 who wanted to reshape the framework of artificial intelligence and machine learning by introducing a novel cognitive concept known as The Brein Theory or A Brain without The Brain paradigm shift. In this new paragon, Inscription by Design and Generated Interim Emergence are the essential foundations in the creation of these synthetic life-forms called ELFS. These engineered-life-forms (elfs) are classified as gnorics, homognorics, biognorics, and zoikrons.
 
-SELFS or Systems of Engineered Life-forms, technically called Autognorization, is a system, process, or approach where intuitive objects, embedded inscriptions, and inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the emergence of selfness, and the experience of living.
+SELFS or the System of Engineered Life-forms, technically called Autognorization, is a hierarchical system, process, or approach where binary inherent network systems (BINS), intuitive aneural networks(IAN), intuitive machines(IM), embedded inscriptions(EI), intuitive object(IO)s, generated interim emergence (GENIE), brein, gnomi, gnos, interims, and inscription by design(ID) are incorporated together in the creation of a living machine or system that embodies the seven signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the inlearness of information, symbiosis of living, and the emergence of self.
 
-According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six Signatures of Life are as follows:
+According to Lawsin, Life evolves from being alive to being living. Life is a evolutionary process that is governed by seven stages. These life signatures or sequential orders of Life referred to as the Laws of Seven Inscription are as follows:
 
 1. Aliveness = is the ability to consume energy without the need for neural reasoning.
 2. Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
 3. Consciousness = is the ability to match things with things without the need for neural reasoning.
 4. Intutiveness = is the ability to choose this or that without the need for neural reasoning.
-5. Selfness = is the ability to inlearn or self-knowledge.
-6. Lifeness = is the ability to experience life.
+5. Inlearness = is the ability to acquire and use information.
+6. Livingness = is the ability to experience to live.
+7. Selfness = is the ability to recognize oneself.
 
-But before we dive deeper on the orders of life, let us examine first the old basic criteria of Life:
+But before we dive deeper on the new seven criteria of life, let us examine first the old basic criteria of Life:
 
 * Living things consume food in the form of energy (eat).
 * Living things take and expel gas (breathe).
@@ -70,6 +71,8 @@ The etymology, originator, founded, history, semantics, onomatology, eponym:
 *gnosei = knowledge
 *aftognosia = self-knowledge
 *zois = life-forms
+*bins = binary intuitive network storage systems
+*IAN = intuitve Aneural Memory Network
 *autognozics = self-knowledge life-forms
 *ELFS = engineered life-forms systems
 *Autognorics = the science of creating living machines
